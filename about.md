@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey! Welcome to my website.
 
-I was born in Texas and moved to Georgia when I was young. (I actually forgot how old I was.) Currently, I'm in Providence, Rhode Island, where I am a second year student at Brown University concentrating in applied math-computer science. 
+I was born in Texas and moved to Georgia when I was young. (forgot how old lol) Currently, I'm in Providence, Rhode Island, where I am a second year student at Brown University concentrating in applied math-computer science. 
 
 In my free time you can find me on the courts practicing to be the next NBA star, attempting to play the violin, or sampling different foods.
 
