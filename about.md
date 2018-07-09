@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About | Kyle Qian
 permalink: /about/
 ---
 
-Some information about you!
+Hey! Welcome to my website.
 
-### More Information
+I was born in Texas and moved to Georgia when I was young. (I actually forgot how old I was.) Currently, I'm in Providence, Rhode Island, where I am a second year student at Brown University concentrating in applied math-computer science. 
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time you can find me on the courts practicing to be the next NBA star, attempting to play the violin, or sampling different foods.
 
-### Contact me
+Check out what I'm doing on [github](https://github.com/kqian5)!
 
-[email@domain.com](mailto:email@domain.com)
+### You can reach me at:
+
+[kyle_qian@brown.edu](mailto:kyle_qian@brown.edu)
+[LinkedIn](https://www.linkedin.com/in/kyle-q-879814126/)
