@@ -14,5 +14,4 @@ Check out what I'm doing on [github](https://github.com/kqian5)!
 
 ### You can reach me at:
 
-[kyle_qian@brown.edu](mailto:kyle_qian@brown.edu)
-[LinkedIn](https://www.linkedin.com/in/kyle-q-879814126/)
+[kyle_qian@brown.edu](mailto:kyle_qian@brown.edu) or [LinkedIn](https://www.linkedin.com/in/kyle-q-879814126/)
