@@ -3,8 +3,8 @@ layout: post
 title: Welcome!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+With the rate that new technology is developing, it is not inconceivable to think that pretty soon the science fiction of the past will become the reality of today. After all, self-driving cars and robots that can see and hear like humans are already here. It is not just this sort of flashy technology that is being developed either. Everyday household items are becoming digitalized with the Internet of Things, smartphones are becoming more intelligent and living up to their name, and we humans are become utterly reliant upon these such items. But these happenings are good right?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Well, progress and innovation is certainly remarkable and valuable, but it is important to remember that we must carefully regulate and consider the consequences of these new discoveries, for these consequences can be dire. There are many moral and ethical dilemnas intertwined within each discovery and it will no doubt be a difficult task to unravel these dilemnas. In this blog, I will be covering various new technologies and discussing its ethical components. Since morality is a subjective issue and a complex part of our culture, keep in mind that these perspectives are not absolute.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Feel free to reach out and let me know your thoughts!
