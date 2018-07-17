@@ -2,7 +2,7 @@
 layout: post
 title: The Dystopian Future Nobody Wants
 ---
-Machine learning is hot hot hot right now, yes even more so than Drake’s newest album, and it was simply a matter of time before the camera industry hopped on that bandwagon. 
+Machine learning is hot hot hot right now --yes even more so than Drake’s newest album-- and it was simply a matter of time before the camera industry hopped on that bandwagon. 
 
 Machine learning is in essence a subset of Artificial Intelligence that allow computers to learn from data without being explicitly programmed. Pair that up with cameras and we suddenly have cameras that ostensibly see like humans.
 
@@ -18,7 +18,7 @@ It can easily capture tons of organic and candid photos without much human effor
 
 Moving on to a more serious note, a major use for these smart-cameras is in security and surveillance. Tech companies are developing surveillance camera software that can recognize faces and the dangerous behaviors performed by the owners of those faces. This could help reduce crime rates by identifying criminals and other lawbreakers. Even the perception of smart surveillance, even if it isn’t actually functional, can work to deter crimes. This innovative technology is exciting and has multitudes of applications and potential, but at what cost?
 
-Privacy issues raise an obvious concern. People will without a doubt oppose being captured on camera without their consent. Information gleaned from video surveillance is extremely valuable and can be used to manipulate people, whether for personalized advertisements or worse: malicious intents. One can easily learn about a person’s habits, location and other important personal information. Just look at all of the lawsuits with Facebook recently over their facial recognition and tagging feature to see the outrage that people demonstrate over privacy violations. 
+Privacy issues raise an obvious concern. People will without a doubt oppose being captured on camera without their consent. Information gleaned from video surveillance is extremely valuable and can be used to manipulate people, whether for personalized advertisements or worse, malicious intents. One can easily learn about a person’s habits, location and other important personal information. Just look at all of the lawsuits with Facebook recently over their facial recognition and tagging feature to see the outrage that people demonstrate over privacy violations. 
 
 Tech companies have tried to bring more transparency towards their data-collecting methods but this in itself is not a solution to the privacy issue. Allowing users to toggle these invasive features does not aptly count either. What needs to happen is some form of valuation over the worth of data and appropriate compensation so that corporate forces no longer exploit our information in the process of building their profit-inflating products. But that is a topic for another day.
 
