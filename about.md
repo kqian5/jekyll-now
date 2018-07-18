@@ -4,7 +4,7 @@ title: About | Kyle Qian
 permalink: /about/
 ---
 
-Hey! Welcome to my website/blog.
+Wow! Welcome to my website/blog.
 
 I was born in Texas and moved to Georgia when I was young. (forgot how old lol) Currently, I'm in Providence, Rhode Island, where I am a second year student at Brown University concentrating in applied math-computer science. 
 
