@@ -17,6 +17,8 @@ It can easily capture tons of organic and candid photos without much human effor
 
 ![GoogleClips](/images/GoogleClips.jpg){:class="img-responsive" height="366px" width="550px"}
 
+----
+****
 
 Moving on to a more serious note, a major use for these smart-cameras is in security and surveillance. Tech companies are developing surveillance camera software that can recognize faces and the dangerous behaviors performed by the owners of those faces. This could help reduce crime rates by identifying criminals and other lawbreakers. Even the perception of smart surveillance, even if it isn’t actually functional, can work to deter crimes. 
 
