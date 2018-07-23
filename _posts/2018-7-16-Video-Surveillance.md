@@ -2,18 +2,18 @@
 layout: post
 title: The Dystopian Future Nobody Wants
 ---
-**Machine learning** is hot hot hot right now --yes even more so than Drake’s newest album-- and it was simply a matter of time before the camera industry hopped on that hypetrain. 
+Machine learning is hot hot hot right now --yes even more so than Drake’s newest album-- and it was simply a matter of time before the camera industry hopped on that hypetrain. 
 
 According to Wikipedia, an authoritative source, machine learning is a subset of Artificial Intelligence that allow computers to learn from data without being explicitly programmed. 
 
-To put it simply, it allows computers to learn and understand from experiences like a human should. Pair that up with cameras and we suddenly have cameras that **ostensibly see like humans.**
+To put it simply, it allows computers to learn and understand from experiences like a human should. Pair that up with cameras and we suddenly have cameras that ostensibly see like humans.
 
 We see it in Apple’s newest iPhone X, in Facebook’s tagging suggestions, and countless other products. Google recently released Google Clips, an extraordinary AI powered camera that seems to accomplish many of the inhuman wonders expected of today’s machines. It uses machine learning techniques to automatically capture whatever it deems “interesting”, by responding to lighting, facial expressions, and other aspects of a good photograph. This product is truly revolutionary and is just one of the many products meant to transform the camera/video/entertainment industry. 
 
-**Since beauty is a very abstract concept, it is incredible that we can possibly program a machine to understand a concept that we have difficulty describing.**  
+Since beauty is a very abstract concept, it is incredible that we can possibly program a machine to understand a concept that we have difficulty describing.  
 
 ## Why is this product so cool? ##
-To use the camera, you simply turn it on and leave it pointing in the general target vicinity; all of the photography happens automatically. It can easily capture tons of organic and candid photos without much human effort, and even allows people to momentarily forget about their dreadful fear of the filming process! No longer will parents have to force their children to act natural in front of an eeringly weapon-like object shaped like a camera. No longer will children have to worry about if they are awkwardly smiling when adults tell them to “Smile!” Furthermore, all of the data from the camera is stored locally, so privacy is protected and ensured against harmful agents like the government. Ha. I admit I have quite lofty expectations for this camera and am concerned about my expectations not being met. Like, all photos of me MUST be good looking because I will accept nothing less than the truthful depiction of my photogenic self. But I am also sure that there are **far greater worries to fret about... 
+To use the camera, you simply turn it on and leave it pointing in the general target vicinity; all of the photography happens automatically. It can easily capture tons of organic and candid photos without much human effort, and even allows people to momentarily forget about their dreadful fear of the filming process! No longer will parents have to force their children to act natural in front of an eeringly weapon-like object shaped like a camera. No longer will children have to worry about if they are awkwardly smiling when adults tell them to “Smile!” Furthermore, all of the data from the camera is stored locally, so privacy is protected and ensured against harmful agents like the government. Ha. I admit I have quite lofty expectations for this camera and am concerned about my expectations not being met. Like, all photos of me MUST be good looking because I will accept nothing less than the truthful depiction of my photogenic self. But I am also sure that there are far greater worries to fret about... 
 
 
 ![GoogleClips](/images/GoogleClips.jpg){:class="img-responsive" height="366px" width="550px"}
@@ -30,11 +30,11 @@ Tech companies have tried to bring more transparency towards their data-collecti
 
 A less visible risk includes potential bias towards targeted groups of people by the smart-cameras. These cameras are trained on data-sets, and if these data-sets are biased then the cameras will inherit this behavior. For example, if a machine learns from recordings that show police officers exhibiting racial or sexist prejudices, it will for sure soak up these behaviors. And this sort of bias can lead to a wrongful conviction or far worse. This is a sensitive topic for all areas of machine learning and in the age of big data, it is exceedingly important that we choose and interpret our data appropriately. 
 
-**Cameras cannot understand the world as well as humans do, and it becomes an ethical problem when we assume that they can and allow them to make decisions for us.**
+Cameras cannot understand the world as well as humans do, and it becomes an ethical problem when we assume that they can and allow them to make decisions for us.
 
 ## Let's look at China. Hmm ##
 
-China has been investing in surveillance companies very heavily and plans to install a mass surveillance system that can ultimately be used to control its citizens. Imagine a dystopian society where the government watches your every move and secretly removes all traces of opposition. Now magnify that **level of frightening many times over** and that will be China in the future, since real life is of course scarier than fiction. Their goal has been quoted to be “algorithmic dominance”, which is as alarming as it sounds. It is clear why this sort of technology is so dangerous and why regulation over this technology remains crucial. 
+China has been investing in surveillance companies very heavily and plans to install a mass surveillance system that can ultimately be used to control its citizens. Imagine a dystopian society where the government watches your every move and secretly removes all traces of opposition. Now magnify that level of frightening many times over and that will be China in the future, since real life is of course scarier than fiction. Their goal has been quoted to be “algorithmic dominance”, which is as alarming as it sounds. It is clear why this sort of technology is so dangerous and why regulation over this technology remains crucial. 
 
 
 ![SurveillanceGif](/images/ai_china_surveillance.gif){:class="img-responsive"}
@@ -52,8 +52,10 @@ I argue that we must first start with setting the right tone towards this techno
 
 Another reason for government intervention is that we cannot rely on the tech industry to choose the protection of users over profits. Some might argue that it is in the tech industry's interest to self-regulate privacy issues. After all, they may fear losing customers if they continue to use and gather private data inappropriately from its users. However as of right now, many of the self-regulation schemes they have created only address how data is used, and not how it is collected in the first place. This is simply not enough and we should be fearful of companies knowing so much about individuals. 
 
-A common attitude in the tech industry towards abuse of technologies is that the technologies themselves are **value neutral**, and that it is how they are implemented and by whom that determines if they are good or bad. In other words, they refuse to take responsibility. 
+A common attitude in the tech industry towards abuse of technologies is that the technologies themselves are value neutral, and that it is how they are implemented and by whom that determines if they are good or bad. In other words, they refuse to take responsibility. 
 
 ## What will our future look like? ##
 
-The future remains bright in the face of the AI revolution and the spread of AI into camera/video. Our world is improving thanks to human innovation and ingenuity and has never looked as good as it has today. People are safer, healthier, living longer, and spending a good chunk of their time interacting with different forms of media powered by cameras. There are many issues concerning this rapid innovation that may cast a shadow on the progress of AI, **but with an appropriate and unified approach, we can mitigate these shadows and provide a brighter future.**
+The future remains bright in the face of the AI revolution and the spread of AI into camera/video. Our world is improving thanks to human innovation and ingenuity and has never looked as good as it has today. People are safer, healthier, living longer, and spending a good chunk of their time interacting with different forms of media powered by cameras. 
+
+There are many issues concerning this rapid innovation that may cast a shadow on the progress of AI, but with an appropriate and unified approach, we can mitigate these shadows and provide a brighter future.
