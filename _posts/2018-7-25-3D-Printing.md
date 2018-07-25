@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can 3D Printing Bring Immortality?
+title: Is 3D Printing the mythical Fountain of Youth?
 ---
 
 Short answer: no. 
@@ -11,12 +11,13 @@ We may not be able to live forever, but 3D printing can certainly prolong life. 
 
 ### How does 3D printing work?
 
-The printing process starts by first developing 2D image slices and stacking these 2D slices on top of one another until a product is formed in the physical world, all three dimensions of it. The materials used can range from plastics to metals to complex chemical compounds, made possible through chemical reactions liked the ones covered in your high school chemistry classes. With today’s technology, it is possible to convert images such as x-rays, MRI’s, and CT scans into digital 3D print files, allowing the creation of complex, customized anatomical/medical structures. This integration of 3D printing into the medical field is only natural since our own bodies are 3D and guess what? Humans have always been fascinated by their own bodies.
+The printing process starts by first developing 2D image slices and stacking these 2D slices on top of one another until a product is formed in the physical world, all three dimensions of it. The materials used can range from plastics to metals to complex chemical compounds, made possible through chemical reactions liked the ones covered in your high school chemistry classes. 
+
+With today’s technology, it is possible to convert images such as x-rays, MRI’s, and CT scans into digital 3D print files, allowing the creation of complex, customized anatomical/medical structures. This integration of 3D printing into the medical field is only natural since our own bodies are 3D and guess what? Humans have always been fascinated by their own bodies.
 
 ### What are some benefits?
 
 One of the greatest advantages of 3D printing is the personalization of medical products, drugs and equipment. According to a recent study from the US National Library of Medicine, custom-made products such as implants, fixtures, and surgical tools can have a positive impact in terms of the time required for surgery, patient recovery time, and the success of the operation. Duh. We can easily imagine a future where patients can have their medical care personally tailored to fit their every needs. 
-
 
 According to the National Health Expenditures data, the US spends more on healthcare per capita than any other country in the world. 3D printing could help combat this by making small-scale production more competitive. Companies that produce in low volumes or have products that are highly complex could rely on 3D printing technology to achieve more cost-effective and faster manufacturing. “Fast” meaning several hours. That makes 3D printing technology much faster than traditional manufacturing for items like prosthetics and implants, which require milling, forging, and long delivery times. It is common knowledge that time = money. So according to my calculations, as time decreases so does the cost involved. 
 
