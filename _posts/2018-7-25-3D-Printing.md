@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Is 3D Printing the mythical Fountain of Youth?
+title: Printing the Way to Healthiness
 ---
+Can 3D printing grant immortality?
 
 Short answer: no. 
 
