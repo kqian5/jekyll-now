@@ -29,8 +29,6 @@ But like with all other things, the good comes with the bad.
 
 3D printing can be used for criminal purposes, such as printing illegal items like guns, master keys, and ATM skimmers. Regarding the medical aspect, 3D printing can also be used to produce dangerous or counterfeit drugs. Counterfeit drugs are estimated to make up as much as 30% of medicines in some developing countries and cost legitimate pharmaceutical companies up to $200 billion per year. The Atlantic estimated that between 100,000 and 1 million consumers die every year as a result of counterfeit medicine. If 3D printing achieves the popularity that it looks like it is on track for, these numbers could rise greatly. This is bad, bad, bad. 
 
-![GoogleClips](/images/healthcare.png){:class="img-responsive"}
-
 The ease of collaboration that 3D printing allows for is especially perilous. Just like how people can collaborate to reach greater heights, they can also conspire to achieve greater evils. Defense Distributed is one such company that develops digital firearm files that are downloadable from the internet. They have been involved in a series of legal battles that most recently concluded with the legalization of 3D printable gun blueprints.
 
 
