@@ -9,6 +9,8 @@ Long answer: still no.
 
 We may not be able to live forever, but 3D printing can certainly prolong life. There are many medical applications for 3D printing that can revolutionize healthcare. We can replicate tissues and organs. We can construct prosthetics, implants, and anatomical models. We can advance pharmaceutical research regarding drug dosage forms, delivery, and discovery. We can develop realistic organ models to allow surgeons to practice on. We can print entire babies removing the need for childbirth. Just kidding, not that last one but these advances are really quite remarkable.
 
+![GoogleClips](/images/3dprinter.jpg){:class="img-responsive"}
+
 ### How does 3D printing work?
 
 The printing process starts by first developing 2D image slices and stacking these 2D slices on top of one another until a product is formed in the physical world, all three dimensions of it. The materials used can range from plastics to metals to complex chemical compounds, made possible through chemical reactions liked the ones covered in your high school chemistry classes. 
@@ -29,8 +31,9 @@ But like with all other things, the good comes with the bad.
 
 3D printing can be used for criminal purposes, such as printing illegal items like guns, master keys, and ATM skimmers. Regarding the medical aspect, 3D printing can also be used to produce dangerous or counterfeit drugs. Counterfeit drugs are estimated to make up as much as 30% of medicines in some developing countries and cost legitimate pharmaceutical companies up to $200 billion per year. The Atlantic estimated that between 100,000 and 1 million consumers die every year as a result of counterfeit medicine. If 3D printing achieves the popularity that it looks like it is on track for, these numbers could rise greatly. This is bad, bad, bad. 
 
-The ease of collaboration that 3D printing allows for is especially perilous. Just like how people can collaborate to reach greater heights, they can also conspire to achieve greater evils. Defense Distributed is one such company that develops digital firearm files that are downloadable from the internet. They have been involved in a series of legal battles that most recently concluded with the legalization of 3D printable gun blueprints.
+![GoogleClips](/images/fakedrug.jpg){:class="img-responsive"}
 
+The ease of collaboration that 3D printing allows for is especially perilous. Just like how people can collaborate to reach greater heights, they can also conspire to achieve greater evils. Defense Distributed is one such company that develops digital firearm files that are downloadable from the internet. They have been involved in a series of legal battles that most recently concluded with the legalization of 3D printable gun blueprints.
 
 Something else to keep in mind is that unrealistic hype and expectations for a technology can stifle progress. We might lose track of what actually matters and instead focus on ephemeral gains. For instance, if we become too enraptured with the idea that 3D printing can solve organ failures through complex organ bioprinting, we might stop looking for other solutions to this problem and miss out on potentially better solutions. This is only just one small example, but for problems that are so crucial to society, it is vital that we do not limit our thinking. Either way, expectations for the potential advantages of 3D printing are often exaggerated by the media. 3D printing will require vision, money, and time to achieve its anticipated goals. While it is certain that the biomedical sector will be one of the most fertile fields for 3D printing innovations, we must recognize what has already been achieved without expecting that rapid advances toward the most sophisticated applications will occur overnight. Urgency can lead to rash decision-making and distort our sense of reality.
 
