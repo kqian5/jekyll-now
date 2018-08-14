@@ -23,7 +23,7 @@ Another example is Facebook’s Free Basics plan in India. They intended to brin
 
 Having a social mission does not insulate a business from the forces of capitalism. Any lapse in the planning, any flaw in the product or implementation, any oversight in the research can and will lead to failure.
 
-I am not saying that tech does not have the ability to solve these social issues but rather that with more rigorous research, we can do a better job of addressing them. For technology that aims to truly be life-altering, we need more
+I am not saying that tech does not have the ability to solve these social issues but rather that with more rigorous research, we can do a better job of addressing them. For technology that aims to truly be life-altering, we must impose a higher standard.
 
 ### Let's look at a startup on the right track:
 
