@@ -5,7 +5,7 @@ title: Tech's Applications Are Really Endless Except...
 
 Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems correlate with a greater sense of accomplishment.
 
-It is no wonder that social entrepreneurs are so admired in society; they come up with novel business ideas that resolve social problems, which are nuanced and complex, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we think they are. 
+No wonder social entrepreneurs are so admired in society; they come up with novel business ideas that resolve social problems, which are nuanced and complex, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we think they are. 
 
 At the heart of the problem is the fact that many of these so called social entrepreneurs, labelled “heropreneurs” by Daniela Papi-Thornton, simply want to be recognized for their good intentions. As a result, they do not truly understand the issues they are trying to solve, or worse, do not truly care. 
 
