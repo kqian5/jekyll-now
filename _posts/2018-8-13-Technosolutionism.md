@@ -3,11 +3,13 @@ layout: post
 title: Tech's Applications Are Really Endless Except...
 ---
 
-Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems equal a greater sense of accomplishment.
+Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems correlate with a greater sense of accomplishment.
 
-It is no wonder that social entrepreneurs are so admired in society; they come up with novel business ideas that solve social problems, which are nuanced and complex, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we think they are. At the heart of the problem is the fact that many of these so called social entrepreneurs, labelled “heropreneurs” by Daniela Papi-Thornton, want to impact the world but do not truly understand the issues they are trying to solve, or worse, do not truly care. 
+It is no wonder that social entrepreneurs are so admired in society; they come up with novel business ideas that resolve social problems, which are nuanced and complex, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we think they are. 
 
-In Silicon Valley especially, there is a prevailing attitude that technology can solve anything. Evgeny Morozov labels this as "technological solutionism", where complex social phenomena like politics, public health, education, and law enforcement are recast as “neatly defined problems with definite, computable solutions or as transparent and self-evident processes that can be easily optimized.” Part of this can be explained by the Dunning Kruger effect -- everyone believes they are more capable than they actually are and often think the problems they know less about are easier to solve. As a result, the abilities of technology are overestimated and the difficulties involved in solving the real issues are understated. It is a problem when entrepreneurs make assumptions/simplifications and their products are reflective of that.
+At the heart of the problem is the fact that many of these so called social entrepreneurs, labelled “heropreneurs” by Daniela Papi-Thornton, simply want to be recognized for their good intentions. As a result, they do not truly understand the issues they are trying to solve, or worse, do not truly care. 
+
+In Silicon Valley especially, there is a prevailing attitude that technology can solve anything. Evgeny Morozov labels this as "technological solutionism", where complex social phenomena like politics, public health, education, and law enforcement are recast as “neatly defined problems with definite, computable solutions or as transparent and self-evident processes that can be easily optimized.” Part of this can be explained by the Dunning Kruger effect -- everyone believes they are more capable than they actually are and often think the problems they know less about are easier to solve. So, the abilities of technology are overestimated and the difficulties involved in solving the real issues are understated. It is problematic when entrepreneurs make assumptions/simplifications and their products are reflective of that.
 
 ### Case Study 1:
 
