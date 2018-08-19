@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech's Applications Are Really Endless Except...
+title: Understanding the World with Technology
 ---
 
 Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems correlate with a greater sense of accomplishment.
