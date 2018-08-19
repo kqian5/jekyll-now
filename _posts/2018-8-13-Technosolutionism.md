@@ -19,13 +19,13 @@ Upon further research, a study by the Journal of Family Medicine and Primary Car
 
 ### Case Study 2:
 
-Another example is Facebook’s Free Basics plan in India. They intended to bring internet access to those without access, especially in remote areas, and touted lofty goals such as creating “more than 100 million jobs” and bringing people out of poverty. It was to Facebook’s surprise that they faced strong opposition from the locals, who saw this as only a greedy company hoping to expand its base and therefore profits. In fact, 80% of those targeted by the Free Basics plan already had internet, strengthening the idea that perhaps there were ulterior motives. Exemplifying this viewpoint is a quote by technologist Anil Dash, who notes that Facebook’s approach “may be a fundamentally wrong structure for delivering these kinds of services because it doesn't empower people to create solutions for themselves that are culturally and contextually appropriate. What about pausing the Internet Basics effort and spending some time on a real effort to listen to Indian voices about what would help them have connectivity on their own terms, in a way they find acceptable?" 
+Another example is Facebook’s Free Basics plan in India. They intended to bring internet access to those without access, especially in remote areas, and touted lofty goals such as creating “more than 100 million jobs” and bringing people out of poverty. It was to Facebook’s surprise that they faced strong opposition from the locals, who saw this as only a greedy business plan hoping to expand its base and therefore profits. In fact, 80% of those targeted by the Free Basics plan already had internet, strengthening the idea that perhaps there were ulterior motives. Exemplifying this viewpoint is a quote by technologist Anil Dash, who notes that Facebook’s approach “may be a fundamentally wrong structure for delivering these kinds of services because it doesn't empower people to create solutions for themselves that are culturally and contextually appropriate. What about pausing the Internet Basics effort and spending some time on a real effort to listen to Indian voices about what would help them have connectivity on their own terms, in a way they find acceptable?" 
 
 ### To emphasize:
 
 Having a social mission does not insulate a business from the forces of capitalism. Any lapse in the planning, any flaw in the product or implementation, any oversight in the research can and will lead to failure.
 
-I am not saying that tech does not have the ability to solve these social issues but rather that with more rigorous research, we can do a better job of addressing them. For technology that aims to truly be life-altering, we must impose a higher standard.
+I am not saying that tech does not have the ability to bring about meaningful and lasting social change but rather that with more rigorous research, we can do a better job of addressing these issues. For technology that aims to truly be life-altering, we must impose a higher standard.
 
 ### Let's look at a startup on the right track:
 
