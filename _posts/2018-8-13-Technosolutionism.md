@@ -5,7 +5,7 @@ title: Tech's Applications Are Really Endless Except...
 
 Humans are solutionists by nature. We take pride in the fact that we can solve problems -- bigger and more complex problems correlate with a greater sense of accomplishment.
 
-No wonder social entrepreneurs are so admired in society; they come up with innovative business solutions to social problems, the most complex of all problems, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we think they are. 
+No wonder social entrepreneurs are so admired in society; they come up with innovative business solutions to social problems, the most complex of all problems, and make life better for others in the world. It is odd however, even astounding, to think that social entrepreneurs may not be doing as much good as we imagine. 
 
 At the heart of the problem is the fact that many of these so called social entrepreneurs, labelled “heropreneurs” by Daniela Papi-Thornton, simply want to be recognized for their good intentions. As a result, they do not truly understand the issues they are trying to solve, or worse, do not truly care. 
 
@@ -23,7 +23,7 @@ In facing a dire crisis such as Ebola, time and money spent on a questionable so
 
 Another example is Facebook’s Free Basics plan in India. They intended to bring internet access to those without access, especially in remote areas, and touted lofty goals such as creating “more than 100 million jobs” and bringing people out of poverty. It was to Facebook’s surprise that they faced strong opposition from the locals, who saw this as only a greedy business plan hoping to expand its base and therefore profits. In fact, 80% of those targeted by the Free Basics plan already had internet, strengthening the idea that perhaps there were ulterior motives. Exemplifying this viewpoint is a quote by technologist Anil Dash, who notes that Facebook’s approach “may be a fundamentally wrong structure for delivering these kinds of services because it doesn't empower people to create solutions for themselves that are culturally and contextually appropriate. What about pausing the Internet Basics effort and spending some time on a real effort to listen to Indian voices about what would help them have connectivity on their own terms, in a way they find acceptable?" 
 
-Facebook's initial assumption that their technology would be enthusiastically welcomed anywhere surely backfired on them and showed they did not truly understand the lives of those they intended to help.
+Facebook's initial assumption that their technology would be enthusiastically welcomed evidently backfired and showed that they did not truly have a good grasp of understand the lives of those they intended to help.
 
 ### To emphasize:
 
