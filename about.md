@@ -4,9 +4,9 @@ title: About | Kyle Qian
 permalink: /about/
 ---
 
-Hi! Welcome to my website/blog.
+Hi, welcome to my website/blog!
 
-I'm Kyle and I am currently a sophomore at Brown University concentrating in applied math-computer science. I'm particularly interested in artificial intelligence/machine learning and my favorite thing about software is the challenge of learning different domains, especially as I get to dive deeper into specific topics such as neural networks or natural language. I am a lifelong learner and am committed to making an impact in the world.
+I am currently a sophomore at Brown University concentrating in applied math-computer science. I'm particularly interested in artificial intelligence/machine learning and my favorite thing about software is the challenge of learning different domains, especially as I get to dive deeper into specific topics such as neural networks or natural language. I am a lifelong learner and am committed to making an impact in the world.
 
 This summer, I had a great experience interning at a 3D printing company, Encashape. I also did some work in the Artificial Intelligence Lab at Brown University and the Data Mining Lab at Georgia State University.
 
