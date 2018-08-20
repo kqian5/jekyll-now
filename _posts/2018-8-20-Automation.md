@@ -20,6 +20,8 @@ No one can say for sure but I for one will confidently venture that AI will not 
 
 Hunter gatherers faced unemployment when better farming was invented. The industrial revolution led to losses of jobs as manufacturing became more efficient. Concerns for technological unemployment have been growing recently, but a majority of economists agree that technology is unlikely to lead to long-term unemployment.
 
+![GoogleClips](/images/hunter-gatherer.jpg){:class="img-responsive"}
+
 An interesting thing to note is whether these robots will learn to pick up the intricate nature of humans: the happiness, the love, the pain, the empathy. Certain jobs seem to require human judgement that is hard to program into robots. Machines might be great at processing complex mathematical problems, organizing spreadsheets, and carrying mundane tasks at lightning speeds. What they aren’t so good at is understanding people, forming human connections, reacting quickly in unfamiliar situations. So, jobs like teachers, doctors, care workers seem secure for the time being. If anything, AI will be used to support these roles and to make the lives of these teachers, doctors, care workers easier.
 
 It is also safe to assume that programmers will not have to worry about losing their job anytime soon. After all, they are the ones responsible for designing all the robots for replacing us. But it is curious to think about what happens when we learn to develop robots who can program, an idea already under study. After all, AI can already beat humans in board games, make medical discoveries, compose songs, paint art, etc. Why shouldn’t they be able to program?
