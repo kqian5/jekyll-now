@@ -12,6 +12,8 @@ The Brookings Institute found in a study that 38% of the people surveyed think t
 
 Meanwhile, there are those with grander perspectives. Tech superstar, Elon Musk, has declared that humans must “merge with machines” to not become irrelevant. Perhaps being a billionaire enlightens you with brilliant insights, but it is more likely that he sees big $$$ in this. 
 
+![GoogleClips](/images/ai.png){:class="img-responsive"}
+
 ### So what is the truth?
 
 No one can say for sure but I for one will confidently venture that AI will not be the end of civilization, as some people are saying. There have been plenty of technological innovations in the past that have led to displacement in jobs, yet the human race has only seen prosperity in the long term.
